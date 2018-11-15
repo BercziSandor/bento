@@ -166,6 +166,7 @@
         "scripts/zypper-locks.sh",
         "scripts/remove-dvd-source.sh",
         "scripts/cleanup.sh",
+        "scripts/add-repos.sh",
         "../_common/minimize.sh"
       ],
       "type": "shell"
