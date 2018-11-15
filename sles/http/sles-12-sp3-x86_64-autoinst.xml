@@ -204,7 +204,7 @@
       <package>kernel-default-devel</package>
       <package>sudo</package>
       <package>gcc</package>
-      <package>git</package>
+      <package>git-core</package>
       <package>rpmbuild</package>
       <package>wget</package>
       <package>perl</package>
